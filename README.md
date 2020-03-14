@@ -1,6 +1,6 @@
 
 
-# Flash-Chat
+# Chatee-App
 
 
 
